@@ -1,0 +1,16 @@
+{
+  "name": "chart",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.3.4",
+    "apexcharts": "^3.6.10",
+    "meteor-node-stubs": "^0.4.1",
+    "vue": "^2.6.10",
+    "vue-apexcharts": "^1.3.5",
+    "vue-meteor-tracker": "^2.0.0-beta.5",
+    "vuetify": "^1.5.14"
+  }
+}
